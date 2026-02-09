@@ -1,8 +1,10 @@
-import core.Alphabet;
-import core.CaesarCoder;
-import exception.CaesarException;
-import model.ProcessingResult;
-import service.FileService;
+package com.javarush;
+
+import com.javarush.core.Alphabet;
+import com.javarush.core.CaesarCoder;
+import com.javarush.exception.CaesarException;
+import com.javarush.model.ProcessingResult;
+import com.javarush.service.FileService;
 
 import java.util.Map;
 import java.util.Scanner;

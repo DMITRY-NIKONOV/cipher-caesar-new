@@ -1,7 +1,7 @@
-package service;
+package com.javarush.service;
 
-//import core.Alphabet;
-import exception.CaesarException;
+import com.javarush.core.Alphabet;
+import com.javarush.exception.CaesarException;
 
 public class ValidationService {
 

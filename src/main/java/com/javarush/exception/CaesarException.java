@@ -1,4 +1,4 @@
-package exception;
+package com.javarush.exception;
 
 public class CaesarException extends Exception{
 
