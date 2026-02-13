@@ -1,10 +1,10 @@
-package com.javarush;
+package javarush;
 
-import com.javarush.core.Alphabet;
-import com.javarush.core.CaesarCoder;
-import com.javarush.exception.CaesarException;
-import com.javarush.model.ProcessingResult;
-import com.javarush.service.FileService;
+import javarush.core.Alphabet;
+import javarush.core.CaesarCoder;
+import javarush.exception.CaesarException;
+import javarush.model.ProcessingResult;
+import javarush.service.FileService;
 
 import java.util.Map;
 import java.util.Scanner;

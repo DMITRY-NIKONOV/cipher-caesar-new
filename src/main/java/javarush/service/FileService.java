@@ -1,6 +1,6 @@
-package com.javarush.service;
+package javarush.service;
 
-import com.javarush.exception.CaesarException;
+import javarush.exception.CaesarException;
 
 import java.io.IOException;
 import java.nio.file.Files;

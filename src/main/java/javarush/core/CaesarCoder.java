@@ -1,8 +1,8 @@
-package com.javarush.core;
+package javarush.core;
 
-import com.javarush.exception.CaesarException;
-import com.javarush.model.ProcessingResult;
-import com.javarush.service.ValidationService;
+import javarush.exception.CaesarException;
+import javarush.model.ProcessingResult;
+import javarush.service.ValidationService;
 
 public class CaesarCoder {
 
