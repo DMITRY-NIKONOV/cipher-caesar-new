@@ -1,4 +1,4 @@
-package model;
+package javarush.model;
 
 public class ProcessingResult {
 

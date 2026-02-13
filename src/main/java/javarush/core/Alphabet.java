@@ -1,4 +1,4 @@
-package core;
+package javarush.core;
 
 import java.util.Collections;
 import java.util.HashMap;
